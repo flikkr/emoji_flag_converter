@@ -1,4 +1,4 @@
-# emoji_flag_converter
+# 🏴 emoji_flag_converter 🏳️
 
 A simple dart package to convert alpha 2 country codes (SG) to emoji flags 🇸🇬 🤟
 
