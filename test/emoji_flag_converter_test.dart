@@ -1,6 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
-
 import 'package:emoji_flag_converter/emoji_flag_converter.dart';
+import 'package:test/test.dart';
 
 void main() {
   group('General tests to see if emoji converter functions', () {
